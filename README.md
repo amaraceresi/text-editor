@@ -11,15 +11,14 @@
 - [Contributing](#contributing)
   
 ## Description
-J.A.T.E is a browser-based text editor application designed to run both online and offline. It serves as a platform where you can write notes, thoughts and more, and ensures access to these notes anytime, anywhere, regardless of internet connectivity. It leverages IndexedDB API for efficient data storage and retrieval.
+J.A.T.E is a handy text editor that lives in your browser. Write notes and thoughts anytime, anywhere - even offline. It uses IndexedDB API for efficient data storage.
 
 ## Installation
-To use JATE Text Editor, follow the deployed [link](https://pwajatetext-0cff585cc4bf.herokuapp.com/) which will direct you to the website. Alternatively, you can clone this repository to your local machine, install the necessary npm packages by running `npm i`, `npm build`, and `npm run dev` to get the repository running. Once done, access the application at `localhost:3000`.
+Follow the deployed [link](https://pwajatetext-0cff585cc4bf.herokuapp.com/) which will direct you to the website. Alternatively, you can clone this repository to your local machine, install the necessary npm packages by running `npm i`, `npm build`, and `npm run dev` to get the repository running. Once done, access the application at `localhost:3000`.
 
 ## Usage
-- Open the JATE Text Editor and start jotting down your thoughts, notes, or code snippets.
+- Open the text editor and start jotting down your thoughts, notes, or code snippets.
 - Your work is saved automatically, making it accessible for later use.
-- Enjoy seamless access to your notes, even without an internet connection.
   
 ## Deployed Website
 https://pwajatetext-0cff585cc4bf.herokuapp.com
