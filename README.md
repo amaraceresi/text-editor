@@ -11,7 +11,7 @@
 - [Contributing](#contributing)
   
 ## Description
-J.A.T.E is a handy text editor that lives in your browser. Write notes and thoughts anytime, anywhere - even offline. It uses IndexedDB API for efficient data storage.
+J.A.T.E is a text editor that lives in your browser. Write notes and thoughts anytime, anywhere - even offline. It uses IndexedDB API for efficient data storage.
 
 ## Installation
 Follow the deployed [link](https://pwajatetext-0cff585cc4bf.herokuapp.com/) which will direct you to the website. Alternatively, you can clone this repository to your local machine, install the necessary npm packages by running `npm i`, `npm build`, and `npm run dev` to get the repository running. Once done, access the application at `localhost:3000`.
